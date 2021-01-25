@@ -12,23 +12,23 @@ The experiment platform is currently hosted on www.elicit-experiment.com and inv
 At current state the following items have been implementes
 
 **Scales**
--Likert scales
--Continuous one dimensional scale. (w/o time resolved ratings)
--Categorical scale (w/o multiple selection)
--List select.
--Text box
+- Likert scales
+- Continuous one dimensional scale. (w/o time resolved ratings)
+- Categorical scale (w/o multiple selection)
+- List select.
+- Text box
 
 **User behavior**
--Eye movements (using WebGazer)
--Mouse movements (coming soon)
--Keyboard events (coming soon)
+- Eye movements (using WebGazer)
+- Mouse movements (coming soon)
+- Keyboard events (coming soon)
 
 **Stimuli**
--Images
--Video (using YouTube)
--Audio (web player)
+- Images
+- Video (using YouTube)
+- Audio (web player)
 
 **Interface**
--Amazon Mechanical Turk
--Prolific
--Automatically generates completion codes. 
+- Amazon Mechanical Turk
+- Prolific
+- Automatically generates completion codes. 
