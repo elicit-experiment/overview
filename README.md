@@ -34,3 +34,6 @@ At current state the following items have been implementes
 - Amazon Mechanical Turk
 - Prolific
 - Automatically generates completion codes. 
+
+
+The platform was initially started at the Technical University of Denmark under the CoSound project. The focus was to carry out listening experiments, but the platform has since been expanded greatly using various funding sources and is now continued at the City College of New York. 
