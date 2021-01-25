@@ -1,6 +1,6 @@
 # overview
 
-Elicit is an online platform designed to allow researchers to let people carry out experiments in the web browser. The platform is comprised of three parts, 
+Elicit is an online platform for researchers to carry out human subject online experiments in the web browser. The platform is comprised of three parts, 
 
 1. An experiment [frontend](https://github.com/elicit-experiment/frontend "Frontend") that visualize stimuli, capture user responses and interaction using scales and webcam eye tracking. 
 2. An [API](https://github.com/elicit-experiment/api "API") that allows access to a database where user responses, behavioral data and interactions are stored for easy retrieval 
