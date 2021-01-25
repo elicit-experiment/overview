@@ -7,7 +7,7 @@ Elicit is an online platform designed to allow researchers to let people carry o
 3. A [client-API](https://github.com/elicit-experiment/client-api "Client API") written in python, that allows researchers to both create and extract results from experiments and the API from (2) 
 
 
-The experiment platform is currently hosted on www.elicit-experiment.com and investigators can contact Jens Madsen if they want to be added as an investigator and try the platform out. The client side API is written in Python, so you do not need to know any HTML or Javascript to create experiments or retrieve results.
+The experiment platform is currently hosted on [Elicit](http://elicit-experiment.com/ "Elicit") and investigators can contact Jens Madsen if they want to be added as an investigator and try the platform out. The client side API is written in Python, so you do not need to know any HTML or Javascript to create experiments or retrieve results.
 
 At current state the following items have been implementes
 
