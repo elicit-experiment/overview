@@ -2,10 +2,10 @@
 
 Elicit is an online platform designed to allow researchers to let people carry out experiments in the web browser. The platform is comprised of three parts, 
 
-1. An experiment frontend that visualize stimuli, capture user responses and interaction using scales and webcam eye tracking. [link](https://github.com/elicit-experiment/frontend "Frontend")
-2. An API that allows access to a database where user responses, behavioral data and interactions are stored for easy retrieval [link](https://github.com/elicit-experiment/api "API")
+1. An experiment frontend that visualize stimuli, capture user responses and interaction using scales and webcam eye tracking. [Frontend](https://github.com/elicit-experiment/frontend "Frontend")
+2. An API that allows access to a database where user responses, behavioral data and interactions are stored for easy retrieval [API](https://github.com/elicit-experiment/api "API")
 3. A client-API written in python, that allows researchers to both create and extract results from experiments and the API from (2) 
-[link](https://github.com/elicit-experiment/client-api "Client API")
+[Client-API](https://github.com/elicit-experiment/client-api "Client API")
 
 The experiment platform is currently hosted on www.elicit-experiment.com and investigators can contact Jens Madsen if they want to be added as an investigator and try the platform out. The client side API is written in Python, so you do not need to know any HTML or Javascript to create experiments or retrieve results.
 
