@@ -8,7 +8,7 @@ Elicit is an online platform for researchers to carry out online human subject e
 
 The experiment platform is currently hosted on [Elicit](http://elicit-experiment.com/ "Elicit") and investigators can contact Jens Madsen if they want to be added as an investigator and try the platform out. The client side API is written in Python, so you do not need to know any HTML or Javascript to create experiments or retrieve results. 
 
-The platform interfaces with AMT and Prolific, where the two services are used to direct user to Elicit and random comletion codes are generated at the completion of an experiment which can be used for payment on AMT/Prolific. Over 1000 users have been through the platform and counting, where webcam eye tracking has been collected for the paper *Synchronized eye movements predict test scores in online video education* published in PNAS. 
+The platform interfaces with AMT and Prolific, where the two services are used to direct user to Elicit and random comletion codes are generated at the completion of an experiment which can be used for payment on AMT/Prolific. Over 1000 users have been through the platform and counting, where webcam eye tracking has been collected for the paper *Synchronized eye movements predict test scores in online video education* published in [PNAS](https://www.pnas.org/content/118/5/e2016980118 "PNAS"). 
 
 
 At current state the following items have been implementes
